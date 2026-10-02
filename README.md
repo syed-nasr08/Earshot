@@ -1,4 +1,4 @@
-# earshot
+# Earshot
 
 Listens to a spoken question through your Mac's microphone, transcribes it
 locally, gets a concise paragraph-form answer from an AI model via OpenRouter,
