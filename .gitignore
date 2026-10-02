@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+interview_answers.docx
+.DS_Store

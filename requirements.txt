@@ -1,0 +1,9 @@
+sounddevice
+webrtcvad-wheels
+faster-whisper
+openai>=1.0
+httpx
+python-docx
+pynput
+python-dotenv
+numpy
